@@ -86,6 +86,9 @@
             "path": "./packages/wallets/ledger/tsconfig.all.json"
         },
         {
+            "path": "./packages/wallets/luckywallet/tsconfig.all.json"
+        },
+        {
             "path": "./packages/wallets/magiceden/tsconfig.all.json"
         },
         {

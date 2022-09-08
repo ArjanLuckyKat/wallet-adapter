@@ -51,6 +51,7 @@
         "@solana/wallet-adapter-keystone": "workspace:^",
         "@solana/wallet-adapter-krystal": "workspace:^",
         "@solana/wallet-adapter-ledger": "workspace:^",
+        "@solana/wallet-adapter-luckywallet": "workspace:^",
         "@solana/wallet-adapter-mathwallet": "workspace:^",
         "@solana/wallet-adapter-neko": "workspace:^",
         "@solana/wallet-adapter-nightly": "workspace:^",
