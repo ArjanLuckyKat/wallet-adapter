@@ -73,7 +73,7 @@ export class LuckyWalletAdapter extends BaseMessageSignerWalletAdapter {
         this._publicKey = null;
 
         if (this._readyState !== WalletReadyState.Unsupported) {
-            this._readyState = WalletReadyState.Installed;
+            this._readyState = WalletReadyState.Loadable;
         }
     }
 
